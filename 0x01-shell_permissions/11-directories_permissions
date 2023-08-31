@@ -1,0 +1,2 @@
+#!/bin/bash
+-type d -exec sudo chmod 0711 {} +
